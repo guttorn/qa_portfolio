@@ -9,13 +9,23 @@ Aspiring Manual QA Engineer with hands-on experience in testing real websites, c
 ## Projects
 
 ### 🔹 Olight E-commerce Website Testing
-- **Website:** https://www.olight.com  
-- **Role:** Manual QA Tester  
-- **Testing Type:** Functional & Exploratory Testing  
+- Website: https://www.olight.com  
+- Type: Manual QA (Functional & Exploratory)  
 
-#### Artifacts:
+Artifacts:
 - 📄 [Project Summary](Olight_Ecommerce_Testing/Project_Summary/Olight_Project_Summary.md)  
 - 🧪 [Test Cases](Olight_Ecommerce_Testing/Test_Cases/Olight_Test_Cases.md)
+
+---
+
+### 🔹 Demoblaze E-commerce Website Testing
+- Website: https://www.demoblaze.com  
+- Type: Manual QA (Functional & Exploratory)  
+
+Artifacts:
+- 📄 [Project Summary](Demoblaze_Ecommerce_Testing/Project_Summary/Demoblaze_Project_Summary.md)  
+- 🧪 [Test Cases](Demoblaze_Ecommerce_Testing/Test_Cases/Demoblaze_Test_Cases.md)
+
 
 **Tested Areas:**
 - Product catalog navigation  
