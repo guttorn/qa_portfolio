@@ -26,6 +26,8 @@ Artifacts:
 - 📄 [Project Summary](Demoblaze_Ecommerce_Testing/Project_Summary/Demoblaze_Project_Summary.md)  
 - 🧪 [Test Cases](Demoblaze_Ecommerce_Testing/Test_Cases/Demoblaze_Test_Cases.md)
 - 🐞 [Bug Reports](Demoblaze_Ecommerce_Testing/Bug_Reports/Demoblaze_Bug_Reports.md)
+- 🔎 Observations & Improvements
+
 
 
 **Tested Areas:**
